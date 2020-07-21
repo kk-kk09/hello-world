@@ -1,2 +1,3 @@
 # hello-world
-Just another reposiitory
+Hi everyone!
+I like doing exercises especially soccer.
